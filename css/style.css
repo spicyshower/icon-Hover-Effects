@@ -225,6 +225,22 @@ body {
 }
 
 /* footer */
+.container > footer div {
+	margin-bottom: 2em;
+}
+
+.container > footer div a{
+	margin-bottom:20px;
+	font-size:2em;
+	color: lightslategray;
+	border-radius: 10px;
+	text-decoration: none;
+}
+
+.container > footer div a:hover{
+	opacity: .6;
+}
+
 .container footer{
 	font-size: .8em;
 	margin-top:1em;
