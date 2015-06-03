@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="120px" height="120px" viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#FF69B4" d="M65.914,29.215l11.301,9.467v8.416h10.153l4.575,4.576v22.883H78.215H42.451H29.722V51.674l4.576-4.576
+			h10.153V29.215H65.914 M65.914,27.797H44.451c-0.783,0-1.417,0.635-1.417,1.417V45.68h-8.736c-0.376,0-0.736,0.149-1.002,0.416
+			l-4.576,4.576c-0.266,0.266-0.416,0.626-0.416,1.002v22.883c0,0.782,0.635,1.416,1.417,1.416H42.45h35.764h13.729
+			c0.783,0,1.416-0.634,1.416-1.416V51.674c0-0.376-0.148-0.736-0.414-1.002l-4.576-4.576c-0.266-0.266-0.626-0.416-1.002-0.416
+			h-8.736v-6.999c0-0.419-0.186-0.817-0.507-1.086l-11.301-9.467C66.568,27.915,66.247,27.797,65.914,27.797L65.914,27.797z"/>
+	</g>
+</g>
+<polyline fill="none" stroke="#FF69B4" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	65.996,29.229 65.996,38.721 77.379,38.721 "/>
+<circle fill="none" stroke="#FF69B4" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="83.863" cy="55.475" r="2.663"/>
+<polyline fill="none" stroke="#FF69B4" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	78.639,75.716 78.639,94.372 42.027,94.372 42.027,75.716 "/>
+<path fill="none" stroke="#FF69B4" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M51.224,79.727h18.741c0.939,0,1.702,0.766,1.702,1.703c0,0.941-0.763,1.704-1.702,1.704H51.224c-0.942,0-1.704-0.763-1.704-1.704
+	C49.52,80.49,50.281,79.727,51.224,79.727z"/>
+<path fill="none" stroke="#FF69B4" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M51.224,85.832h18.741c0.939,0,1.702,0.764,1.702,1.703c0,0.941-0.763,1.704-1.702,1.704H51.224c-0.942,0-1.704-0.763-1.704-1.704
+	C49.52,86.596,50.281,85.832,51.224,85.832z"/>
+<line fill="none" stroke="#FF69B4" stroke-width="1.4173" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="77.62" y1="46.387" x2="44.429" y2="46.387"/>
+</svg>

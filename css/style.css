@@ -1,0 +1,245 @@
+/* Basic */
+body {
+	padding:0;
+	margin:0;
+	width: 100%;
+	font-size: 1em;
+}
+
+.container {
+	width: 100%;
+	height:100%;
+	text-align: center;
+}
+
+/* Clearfix */
+.cf:before, .cf:after {
+	content: " ";
+	display: table;
+}
+
+.cf:after {
+	clear: both;
+}
+
+/* Heading */
+.container > header {
+	z-index:1;
+	position:fixed;
+	width: 100%;
+	margin: 0 auto;
+	padding-bottom: 1em;
+	background-color: white;
+}
+.container > header h1 {
+	color: lightslategray;
+	font-size:2.8em;
+	font-weight:normal;
+}
+
+/* Navgation */
+.container > header nav ul{
+	width: 200px;
+	margin: 0 auto;
+}
+
+.container > header nav ul li{
+	list-style:none;
+	display:table-cell;
+	width: 50px;
+}
+
+.container > header nav ul li a{
+	font-size: 1.05em;
+	text-decoration: none;
+	display:block;
+	width: 30px;
+	color: lightslategray;
+	border: 1px solid grey;
+}
+
+.container > header nav ul li a:hover{
+	opacity: .6;
+}
+
+/* Section color*/
+.container #fst{
+	background-color:hotpink;
+}
+
+.container #snd{
+	background-color:lightseagreen;
+}
+
+.container #trd{
+	background-color:darkorange;
+}
+
+.container #fth{
+	background-color:lightskyblue;
+}
+
+.container #fst, .container #snd, .container #trd, .container #fth{
+	padding-bottom: 50px;
+}
+	
+/* Section contents*/
+.container > section .contents{
+	width: 80%;
+	margin: 50px auto;
+}
+
+.container > section #start {
+	margin-top: 220px;
+}
+
+.container > section .contents div{
+	float:left;
+	width:120px;
+	height:120px;
+	display:block;
+	background-color:white;
+	margin:20px;
+	border-radius:60px;
+}
+
+.container > section .contents div.pinkBtn{
+	border: 2px solid white;
+}
+
+.container > section .contents div.orangeBtn{
+	border: 3px dashed white;
+}
+
+.container > section .contents div.blueBtn{
+	border: 4px solid white;
+}
+
+/* icon */
+.pinkPath1, .pinkPath2, .pinkPath3{
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: none;
+	stroke: #FF69B4;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;
+}
+.pinkPath1{
+	stroke-width: 1.5;
+}
+.pinkPath2{
+	stroke-width: 2;
+}
+.pinkPath3{
+	stroke-width: 2.5;
+}
+.pinkPath4{
+	fill: #FF69B4;
+	stroke: #FF69B4;
+	stroke-width: 1.2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;	
+}
+
+.greenPath1, .greenPath2, .greenPath3{
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: none;
+	stroke: #20B2AA;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;
+}
+.greenPath1{
+	stroke-width: 1.5;
+}
+.greenPath2{
+	stroke-width: 2;
+}
+.greenPath3{
+	stroke-width: 2.5;
+}
+.greenPath4{
+	fill: #20B2AA;
+	stroke: #20B2AA;
+	stroke-width: 1.2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;	
+}
+
+.orangePath1, .orangePath2, .orangePath3{
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: none;
+	stroke: #FF8C00;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;
+}
+.orangePath1{
+	stroke-width: 1.5;
+}
+.orangePath2{
+	stroke-width: 2;
+}
+.orangePath3{
+	stroke-width: 2.5;
+}
+.orangePath4{
+	fill: #FF8C00;
+	stroke: #FF8C00;
+	stroke-width: 1.2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;	
+}
+
+.bluePath1, .bluePath2, .bluePath3{
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: none;
+	stroke: #87CEFA;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;
+}
+.bluePath1{
+	stroke-width: 1.5;
+}
+.bluePath2{
+	stroke-width: 2;
+}
+.bluePath3{
+	stroke-width: 2.5;
+}
+.bluePath4{
+	fill: #87CEFA;
+	stroke: #87CEFA;
+	stroke-width: 1.2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;	
+}
+
+/* footer */
+.container footer{
+	font-size: .8em;
+	margin-top:1em;
+}
+
+.container footer p{
+	margin:0;
+	padding:0;
+}
+
+.container footer p a{
+	text-decoration: none;
+	color: lightslategray;
+}
+
+.container footer p a:hover{
+	opacity: .8;
+}
