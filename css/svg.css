@@ -1,0 +1,138 @@
+/* icon */
+.pinkBtn{
+	width:220px;
+	height:220px;
+	display:block;
+	background-color:white;
+	margin:20px;
+	border-radius:120px;
+	border: 2px solid white;
+}
+
+.orangeBtn{
+	width:220px;
+	height:220px;
+	display:block;
+	background-color:white;
+	margin:20px;
+	border-radius:120px;
+	border: 6px double white;
+}
+
+.blueBtn{
+	width:220px;
+	height:220px;
+	display:block;
+	background-color:white;
+	margin:20px;
+	border-radius:120px;
+	border: 4px solid white;
+}
+
+.pinkPath1, .pinkPath2, .pinkPath3{
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: none;
+	stroke: #FF69B4;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;
+}
+.pinkPath1{
+	stroke-width: 1.5;
+}
+.pinkPath2{
+	stroke-width: 2;
+}
+.pinkPath3{
+	stroke-width: 2.5;
+}
+.pinkPath4{
+	fill: #FF69B4;
+	stroke: #FF69B4;
+	stroke-width: 1.2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;	
+}
+
+.greenPath1, .greenPath2, .greenPath3{
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: none;
+	stroke: #20B2AA;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;
+}
+.greenPath1{
+	stroke-width: 1.5;
+}
+.greenPath2{
+	stroke-width: 2;
+}
+.greenPath3{
+	stroke-width: 2.5;
+}
+.greenPath4{
+	fill: #20B2AA;
+	stroke: #20B2AA;
+	stroke-width: 1.2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;	
+}
+
+.orangePath1, .orangePath2, .orangePath3{
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: none;
+	stroke: #FF8C00;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;
+}
+.orangePath1{
+	stroke-width: 1.5;
+}
+.orangePath2{
+	stroke-width: 2;
+}
+.orangePath3{
+	stroke-width: 2.5;
+}
+.orangePath4{
+	fill: #FF8C00;
+	stroke: #FF8C00;
+	stroke-width: 1.2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;	
+}
+
+.bluePath1, .bluePath2, .bluePath3{
+	fill-rule: evenodd;
+	clip-rule: evenodd;
+	fill: none;
+	stroke: #87CEFA;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;
+}
+.bluePath1{
+	stroke-width: 1.5;
+}
+.bluePath2{
+	stroke-width: 2;
+}
+.bluePath3{
+	stroke-width: 2.5;
+}
+.bluePath4{
+	fill: #87CEFA;
+	stroke: #87CEFA;
+	stroke-width: 1.2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;	
+}

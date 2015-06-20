@@ -9,20 +9,12 @@ var duration = 500;
 			$(this).stop(true).animate({borderColor: '#fff'}, duration, 'easeOutQuad');
 			});
 
-	$('.greenBtn')
-		.on('mouseenter', function(){
-			$(this).stop(true).animate({backgroundColor: '#7cdcd7'}, duration, 'easeOutQuad');
-			})
-		.on('mouseleave', function(){
-			$(this).stop(true).animate({backgroundColor: '#fff'}, duration, 'easeOutQuad');
-			});
-
 	$('.orangeBtn')
 		.on('mouseenter', function(){
-			$(this).stop(true).animate({borderColor: '#FF8C00'}, duration, 'easeOutQuad');
+			$(this).stop(true).animate({borderColor: '#FF8C00', backgroundColor: '#ffe7a5' }, duration, 'easeOutQuad');
 			})
 		.on('mouseleave', function(){
-			$(this).stop(true).animate({borderColor: '#FFF'}, duration, 'easeOutQuad');
+			$(this).stop(true).animate({borderColor: '#FFF', backgroundColor: '#fff' }, duration, 'easeOutQuad');
 			});	
 
 	$('.blueBtn')
