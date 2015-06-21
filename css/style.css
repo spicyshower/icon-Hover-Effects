@@ -89,6 +89,16 @@ hr.star-tertiary:after{
     margin: 0 auto;
 }
 
+.item{
+	padding-left:3rem;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+    text-align:center;
+
+}
+
 header {
     text-align: center;
     color: #fff;
